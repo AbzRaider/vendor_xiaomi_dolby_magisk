@@ -34,11 +34,8 @@ persist.sys.button_jack_switch=0
 #persist.vendor.audio.scenario.restore=
 
 
-
-
-
-
-
+#NTDirac
+persist.vendor.newdirac.dump=0
 
 
 
